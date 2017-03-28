@@ -1,0 +1,25 @@
+{
+  "name": "xh-mockjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinHuaLuFang/xh-mockjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XinHuaLuFang/xh-mockjs/issues"
+  },
+  "homepage": "https://github.com/XinHuaLuFang/xh-mockjs#readme",
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
