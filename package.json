@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/XinHuaLuFang/xh-mockjs#readme",
   "dependencies": {
+    "axios": "^0.15.3",
     "mockjs": "^1.0.1-beta3"
   },
   "devDependencies": {
+    "axios-mock-adapter": "^1.8.1",
     "eslint": "^3.18.0"
   }
 }
